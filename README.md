@@ -1,8 +1,11 @@
 ## Opa! Eu sou o Greville :)
 
-- 🔭 Hoje eu busco trabalhar com desenvolvimento Full-Stack
-- 🌱 Sempre aperfeiçoando HTML, CSS e JS e aprendendo C# com Windows Forms
-- 📫 Contate-me no email: greville1664@gmail.com
+- 🔭 I'm currently working on Full Stack development
+- 🌱 I'm currently learning HTML, CSS and JS (*always improving*:wink:) and Csharp with Windows Forms
+- :speech_balloon: Ask me about life, truth and the universe:sunglasses:
+- 📫 How to reach me: greville1664@gmail.com
+
+##
 
 <div>
   <a href="https://github.com/Grevill3">
