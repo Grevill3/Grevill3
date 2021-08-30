@@ -27,5 +27,3 @@
   <a href = "mailto:greville1664@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/greville-rufino" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-                     badge&logo=linkedin&logoColor=white" target="_blank"></a>
  </div>
-  
-    ![Snake animation](https://github.com/grevill3/grevill3/blob/output/github-contribution-grid-snake.svg)
