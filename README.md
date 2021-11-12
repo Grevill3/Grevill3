@@ -1,7 +1,7 @@
 ## Opa! Eu sou o Greville :)
 
 - 🔭 I'm currently working on Full Stack development
-- 🌱 I'm currently learning HTML, CSS and JS (*always improving*:wink:) and Csharp with Windows Forms
+- 🌱 I'm currently learning HTML, CSS with Grid system and JS (*always improving*:wink:), SQL Server and ASP
 - :speech_balloon: Ask me about life, truth and the universe:sunglasses:
 - 📫 How to reach me: greville1664@gmail.com
 
